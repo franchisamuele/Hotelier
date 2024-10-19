@@ -1,0 +1,14 @@
+[
+  {
+    "userId": 1,
+    "hotelId": 10,
+    "rate": 4.0,
+    "ratings": {
+      "cleaning": 4.0,
+      "position": 4.0,
+      "services": 4.0,
+      "quality": 4.0
+    },
+    "date": "18-01-2024"
+  }
+]
